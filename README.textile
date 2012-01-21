@@ -1,0 +1,6 @@
+A soft dark scheme for notepad++
+
+Added syntax highlighting for coffeescript (https://github.com/shivercube/notepad-coffeescript) and less.
+
+Colors are as follow:
+!http://img855.imageshack.us/img855/3514/colorsr.jpg!
