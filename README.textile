@@ -5,3 +5,15 @@ Added syntax highlighting for coffeescript (by "shivercube":https://github.com/s
 Colors are as follow:
 
 !http://img855.imageshack.us/img855/3514/colorsr.jpg!
+
+.less
+
+!http://new.tinygrab.com/9e6cbfbef9313eb92ea163f422d4c63c6252c2fc13.png!
+
+.html
+
+!http://new.tinygrab.com/9e6cbfbef9a974fcf47b1a2a40b7cf4343ad07e618.png!
+
+.js
+
+!http://new.tinygrab.com/9e6cbfbef9fdcc187c4293f95b17e4d9a2d9b1ddb9.png!
